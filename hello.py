@@ -1,6 +1,8 @@
 print("my name is reeya")
 
-
+print("my name is Jean")
+print("my favorite food is pizza")
+print("I am from Korea")
 
 
 
